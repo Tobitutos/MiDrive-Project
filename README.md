@@ -31,10 +31,6 @@ You can access it locally through your browser or share it with others using a p
 
 pip install flask requests customtkinter
 
-4. Download ngrok and place the ngrok executable in the same folder as the server.
-
-https://ngrok.com/download
-
 ## Configuring ngrok
 
 To allow internet access you need to connect ngrok to your account.
